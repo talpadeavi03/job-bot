@@ -1,0 +1,8 @@
+node_modules/
+config/credentials.json
+config/auth.json
+*.pem
+.env
+logs/
+data/
+ec2-test-key-pair.pem
